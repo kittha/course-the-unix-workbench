@@ -1,1 +1,1 @@
-# the-unix-workbench-course
+# course-the-unix-workbench
